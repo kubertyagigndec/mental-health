@@ -36,8 +36,9 @@ body {
 }
 
 .note-warning {
-  text-align: justify;
-  color: #ff5733;
+  top: 43%;
+  text-align: center;
+  color: #ffffff;
   margin: 0;
   width: 250px;
   margin-left: auto;
@@ -47,6 +48,8 @@ body {
   background-color: #01132ba6;
   padding: 10px;
   border-radius: 10px;
+  position: absolute;
+  left: 25%;
 }
 
 .loading-screen > section > div {
